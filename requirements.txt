@@ -1,0 +1,6 @@
+tensorflow==2.3.0
+Pillow==7.2.0
+numpy==1.18.5
+gensim==3.8.3
+streamlit==0.67.0
+matplotlib>=3.3.2
